@@ -16,28 +16,30 @@ It is important to note that some cube configurations are impossible to solve. A
 
 Here are some sample scrambled cubes you can input:
 
-        O Y G 
-        Y W W 
-        W O Y 
+Scramble 1
 
-B O G   R G B   R G Y   R R W 
-R G G   R R W   O B B   W O W 
-R B Y   O B Y   B B G   O G B 
-
-        G R O 
-        Y Y O 
-        W Y W 
+                O Y G 
+                Y W W 
+                W O Y
+                
+        B O G   R G B   R G Y   R R W 
+        R G G   R R W   O B B   W O W 
+        R B Y   O B Y   B B G   O G B 
         
-        
-        
-        B G W 
-        R W Y 
-        G O B 
+                G R O 
+                Y Y O 
+                W Y W 
 
-Y Y Y   R W W   R O B   O W R 
-B G B   W R G   O B O   B O Y 
-O Y Y   B B W   R R G   Y W G 
+Scramble 2
 
-        O R G 
-        G Y G 
-        W R O 
+                B G W 
+                R W Y 
+                G O B 
+        
+        Y Y Y   R W W   R O B   O W R 
+        B G B   W R G   O B O   B O Y 
+        O Y Y   B B W   R R G   Y W G 
+        
+                O R G 
+                G Y G 
+                W R O 
